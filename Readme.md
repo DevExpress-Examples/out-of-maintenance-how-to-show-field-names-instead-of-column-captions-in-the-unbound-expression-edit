@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MyGridControl.cs](./CS/Q472824/CustomGrid/MyGridControl.cs) (VB: [MyGridControl.vb](./VB/Q472824/CustomGrid/MyGridControl.vb))
+* [MyGridView.cs](./CS/Q472824/CustomGrid/MyGridView.cs) (VB: [MyGridViewInfoRegistrator.vb](./VB/Q472824/CustomGrid/MyGridViewInfoRegistrator.vb))
+* [MyGridViewInfoRegistrator.cs](./CS/Q472824/CustomGrid/MyGridViewInfoRegistrator.cs) (VB: [MyGridViewInfoRegistrator.vb](./VB/Q472824/CustomGrid/MyGridViewInfoRegistrator.vb))
+* **[Form1.cs](./CS/Q472824/Form1.cs) (VB: [Form1.vb](./VB/Q472824/Form1.vb))**
+* [Program.cs](./CS/Q472824/Program.cs) (VB: [Program.vb](./VB/Q472824/Program.vb))
+<!-- default file list end -->
 # How to show field names instead of column captions in the unbound expression editor
 
 
